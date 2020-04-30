@@ -7,11 +7,61 @@ def game_hash do
       colors: ["black", "white"],
       players: 
         [
-          {},
-          {},
-          {},
-          {},
-          {}
+          {
+          player_name: "", 
+          number: "", 
+          shoe: "", 
+          points: "", 
+          rebounds: "", 
+          assists: "", 
+          steals: "", 
+          blocks: "", 
+          slam_dunks: ""
+          },
+          {
+          player_name: "", 
+          number: "", 
+          shoe: "", 
+          points: "", 
+          rebounds: "", 
+          assists: "", 
+          steals: "", 
+          blocks: "", 
+          slam_dunks: ""
+          },
+          {
+          player_name: "", 
+          number: "", 
+          shoe: "", 
+          points: "", 
+          rebounds: "", 
+          assists: "", 
+          steals: "", 
+          blocks: "", 
+          slam_dunks: ""
+          },
+          {
+          player_name: "", 
+          number: "", 
+          shoe: "", 
+          points: "", 
+          rebounds: "", 
+          assists: "", 
+          steals: "", 
+          blocks: "", 
+          slam_dunks: ""
+          },
+          {
+          player_name: "", 
+          number: "", 
+          shoe: "", 
+          points: "", 
+          rebounds: "", 
+          assists: "", 
+          steals: "", 
+          blocks: "", 
+          slam_dunks: ""
+          }
         ]
       },
     away: 
@@ -20,11 +70,61 @@ def game_hash do
       colors: ["turquoise", "purple"],
       players: 
         [
-          {},
-          {},
-          {},
-          {},
-          {}
+          {
+          player_name: "", 
+          number: "", 
+          shoe: "", 
+          points: "", 
+          rebounds: "", 
+          assists: "", 
+          steals: "", 
+          blocks: "", 
+          slam_dunks: ""
+          },
+          {
+          player_name: "", 
+          number: "", 
+          shoe: "", 
+          points: "", 
+          rebounds: "", 
+          assists: "", 
+          steals: "", 
+          blocks: "", 
+          slam_dunks: ""
+          },
+          {
+          player_name: "", 
+          number: "", 
+          shoe: "", 
+          points: "", 
+          rebounds: "", 
+          assists: "", 
+          steals: "", 
+          blocks: "", 
+          slam_dunks: ""
+          },
+          {
+          player_name: "", 
+          number: "", 
+          shoe: "", 
+          points: "", 
+          rebounds: "", 
+          assists: "", 
+          steals: "", 
+          blocks: "", 
+          slam_dunks: ""
+          },
+          {
+          player_name: "", 
+          number: "", 
+          shoe: "", 
+          points: "", 
+          rebounds: "", 
+          assists: "", 
+          steals: "", 
+          blocks: "", 
+          slam_dunks: ""
+          }
         ]
       }
   }
