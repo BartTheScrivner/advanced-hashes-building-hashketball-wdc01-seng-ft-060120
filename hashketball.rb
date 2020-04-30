@@ -15,7 +15,7 @@ def game_hash do
           rebounds: "12", 
           assists: "12", 
           steals: "3", 
-          blocks: "", 
+          blocks: "1", 
           slam_dunks: ""
           },
           {
