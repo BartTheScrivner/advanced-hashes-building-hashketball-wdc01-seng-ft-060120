@@ -9,7 +9,7 @@ def game_hash do
         [
           {
           player_name: "Alan Anderson", 
-          number: "", 
+          number: "0", 
           shoe: "", 
           points: "", 
           rebounds: "", 
