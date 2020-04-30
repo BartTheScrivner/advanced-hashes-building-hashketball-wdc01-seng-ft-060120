@@ -12,7 +12,7 @@ def game_hash do
           number: "0", 
           shoe: "16", 
           points: "22", 
-          rebounds: "", 
+          rebounds: "12", 
           assists: "", 
           steals: "", 
           blocks: "", 
